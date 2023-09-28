@@ -3,6 +3,7 @@ This is an example to how to use google 2fa(two factor authentication) in your s
 
 ## Requirements
 Install `Google Authenticator` in your device:
+
 Android:
 ```
 https://play.google.com/store/apps/details?id=com.google.android.apps.authenticator2&pcampaignid=web_share
